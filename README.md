@@ -1,11 +1,3 @@
-![Screenshot (829)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/277338c0-8404-423a-b141-5527eba7f442)
-![Screenshot (828)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/898e7650-2694-4750-b81f-75eab8407e7c)
-![Screenshot (827)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/5326a210-5f5d-4775-873d-27d448d00cdd)
-![Screenshot (826)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/a79b02c3-77a4-449b-9eea-f70c72ec21ca)
-![Screenshot (825)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/ef8af9fd-44bb-47f9-91ac-f661c0047bb5)
-![Screenshot (824)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/fe6b0c56-636b-4ffa-a1ae-ad8377192783)
-![Screenshot (823)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/b96ed247-27f6-48e7-b020-0a5b64a1870e)
-![Screenshot (822)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/9134801c-97b4-47c0-929b-f78033da2d56)
 
 # Osteoporosis Risk Prediction
 
@@ -81,7 +73,8 @@ To enhance the understanding of the data and its impact on osteoporosis predicti
 
 ##### Page.1
 
-![Screenshot (822)](https://github.com/archanakk010/main_project/assets/132830280/065a76c8-481a-45a2-82c3-5f2a954b4724)
+![Screenshot (822)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/9134801c-97b4-47c0-929b-f78033da2d56)
+
 
 ###### 1.Total  Patients,Patients with Osteoporosis and Patients without Osteoporosis details
 
@@ -112,7 +105,7 @@ Description: This chart displays the count of patients who have osteoporosis ver
 
 ##### Page.2
 
-![Screenshot (823)](https://github.com/archanakk010/main_project/assets/132830280/4de5fe3c-de36-4a63-9b6c-669cf41a32b7)
+![Screenshot (823)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/b96ed247-27f6-48e7-b020-0a5b64a1870e)
 
 ###### 1.Gender and Osteoporosis
 
@@ -128,8 +121,7 @@ Description: This chart shows the relationship between hormonal changes and oste
 
 ##### Page.3
 
-![Screenshot (824)](https://github.com/archanakk010/main_project/assets/132830280/60e2c367-5e41-4cbb-938c-e36ee10cc372)
-
+![Screenshot (824)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/fe6b0c56-636b-4ffa-a1ae-ad8377192783)
 
 ###### 1.Family History and Osteoporosis
 
@@ -146,7 +138,7 @@ Description: This chart shows the distribution of osteoporosis across different 
 
 ##### Page.4
 
-![Screenshot (825)](https://github.com/archanakk010/main_project/assets/132830280/14e2dd6a-00e4-41d8-a11a-d1b8807a0e9b)
+![Screenshot (825)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/ef8af9fd-44bb-47f9-91ac-f661c0047bb5)
 
 ###### 1.Body Weight and Osteoporosis
 
@@ -164,10 +156,9 @@ Description: This chart shows the correlation between physical activity levels a
 
 ##### Page.5
 
-![Screenshot (826)](https://github.com/archanakk010/main_project/assets/132830280/32b5d5d5-aa22-41d2-b03d-9e7643c99db5)
+![Screenshot (826)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/a79b02c3-77a4-449b-9eea-f70c72ec21ca)
 
 ###### 1.Nutrition and Osteoporosis
-
 
 Visualization: Stacked Column Chart
 
@@ -175,7 +166,8 @@ Description: This chart explores the relationship between nutritional intake (Ca
 
 ##### Page.6
 
-![Screenshot (827)](https://github.com/archanakk010/main_project/assets/132830280/15560d84-cd91-4aa8-b34b-65eb80f4ac84)
+![Screenshot (827)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/5326a210-5f5d-4775-873d-27d448d00cdd)
+
 
 ###### 1.Medical Conditions, Medications, and Osteoporosis
 
@@ -186,7 +178,7 @@ Description: This chart displays the relationship between existing medical condi
 
 ##### Page.7
 
-![Screenshot (828)](https://github.com/archanakk010/main_project/assets/132830280/af102d83-5dd5-4cc3-b39a-2683e981fc5c)
+![Screenshot (828)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/898e7650-2694-4750-b81f-75eab8407e7c)
 
 ###### 1.Smoking and Alcohol Consumption and Osteoporosis
 
@@ -198,8 +190,7 @@ Description: This chart displays the impact of smoking and alcohol consumption o
 
 ##### Page.8
 
-![Screenshot (829)](https://github.com/archanakk010/main_project/assets/132830280/67cde12c-5ead-49a9-a89c-4d17ea6bab10)
-
+![Screenshot (829)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/277338c0-8404-423a-b141-5527eba7f442)
 
 ###### 1.Prior Fracture and Osteoporosis
 
