@@ -1,3 +1,11 @@
+![Screenshot (829)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/277338c0-8404-423a-b141-5527eba7f442)
+![Screenshot (828)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/898e7650-2694-4750-b81f-75eab8407e7c)
+![Screenshot (827)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/5326a210-5f5d-4775-873d-27d448d00cdd)
+![Screenshot (826)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/a79b02c3-77a4-449b-9eea-f70c72ec21ca)
+![Screenshot (825)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/ef8af9fd-44bb-47f9-91ac-f661c0047bb5)
+![Screenshot (824)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/fe6b0c56-636b-4ffa-a1ae-ad8377192783)
+![Screenshot (823)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/b96ed247-27f6-48e7-b020-0a5b64a1870e)
+![Screenshot (822)](https://github.com/archanakk010/Osteoporosis-Risk-Prediction/assets/132830280/9134801c-97b4-47c0-929b-f78033da2d56)
 
 # Osteoporosis Risk Prediction
 
